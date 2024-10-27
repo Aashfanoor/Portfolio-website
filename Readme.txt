@@ -15,7 +15,4 @@ This is a simple portfolio website template that I downloaded and customized for
 - A web browser (e.g., Chrome, Firefox, Safari)
 - Basic knowledge of HTML, CSS, and JavaScript
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Aashfanoor/Portfolio-website.git
+
