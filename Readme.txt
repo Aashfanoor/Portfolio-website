@@ -1,6 +1,21 @@
-Thanks for downloading this template!
+# Simple Portfolio Website
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## Overview
+This is a simple portfolio website template that I downloaded and customized for practice with Git. The website showcases projects, skills, and contact information, and is built using HTML, CSS, and JavaScript.
+
+## Features
+- **Home Page**: Introduction and brief overview.
+- **About Page**: Information about yourself, your skills, and experience.
+- **Resume Page**: Display your resume in a clean and organized format.
+- **Portfolio Page**: Highlight your work and achievements with detailed descriptions and images.
+
+## Getting Started
+
+### Prerequisites
+- A web browser (e.g., Chrome, Firefox, Safari)
+- Basic knowledge of HTML, CSS, and JavaScript
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Aashfanoor/Portfolio-website.git
